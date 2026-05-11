@@ -15,4 +15,4 @@ Built a monitoring and alerting system using Prometheus and Grafana with Docker 
 
 ## Dashboard Screenshot
 
-![Grafana Dashboard](screenshots 2026-05-11 112514.png)
+![Grafana Dashboard](screenshots%2026-05-11%112514.png)
