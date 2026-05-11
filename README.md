@@ -1,6 +1,6 @@
 # aws-monitoring-and-alerting
 # AWS Monitoring and Alerting Project
-
+Built a monitoring and alerting system using Prometheus and Grafana with Docker containers to monitor CPU, RAM, Disk, and Network metrics.
 ## Tools Used
 - Docker
 - Prometheus
