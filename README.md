@@ -13,6 +13,4 @@ Built a monitoring and alerting system using Prometheus and Grafana with Docker 
 - Disk Usage Monitoring
 - Network Monitoring
 
-## Dashboard Screenshot
-
-![Grafana Dashboard](screenshots%2026-05-11%112514.png)
+![Grafana Dashboard](Screenshot%202026-05-11%20112514.png)
